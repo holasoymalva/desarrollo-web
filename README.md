@@ -16,3 +16,6 @@
 ## Clase 3
 
 ### Recursos complementarios.
+
+
+>  Made with 💖 and 🌮🌮🌮 by [malvabombom](https://github.com/malvabombom) 🤙
