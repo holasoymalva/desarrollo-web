@@ -7,13 +7,24 @@
 * **Clase 3** : Incluyendo CSS.
 
 
-## Clase 0
+## Clase 0 : Introduccion al Desarrollo Web.
 
-## Clase 1
+* [Notas de la clase]()
 
-## Clase 2
+## Clase 1 : Introduccion al Diseño Web
+
+* [Notas de la clase]()
+* [Demo practico de la clase]()
+
+## Clase 2 : Primeros pasos con HTML
+
+* [Notas de la clase]()
+* [Demo practico de la clase]()
 
 ## Clase 3
+
+* [Notas de la clase]()
+* [Demo practico de la clase]()
 
 ### Recursos complementarios.
 
