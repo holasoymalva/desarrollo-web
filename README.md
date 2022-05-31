@@ -13,7 +13,7 @@
 
 ## Clase 0 : Introduccion al Desarrollo Web.
 
-* [Notas de la clase]()
+* [Notas de la clase](./00-clase)
 
 ## Clase 1 : Introduccion al Diseño Web
 
