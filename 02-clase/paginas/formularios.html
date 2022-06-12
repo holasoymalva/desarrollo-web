@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <a href="../index.html">Ir al inicio</a>
+    <form action="">
+        <fieldset>
+            <legend>Informacion Personal</legend>
+            <p>Sexo:</p>
+            <input type="radio" name="sexo" value="hombre"><label for="sexo">hombre</label>
+            <input type="radio" name="sexo" value="mujer"><label for="sexo">mujer</label>
+            <p>Nombre:</p>
+            <input type="text" placeholder="Nombre" name="nombre">
+            <p>Apellido:</p>
+            <input type="text" placeholder="Apellido" name="apellido">
+            <p></p>
+            <label for="tallas">Tallas: </label>
+            <select name="tallas">
+                <option value="Larga" active>Larga</option>
+                <option value="Mediana">Mediana</option>
+                <option value="Chica">Chica</option>
+            </select>
+            <p></p>
+            <input type="submit" value="Enviar / Ella no te ama">
+            <input type="reset" value="limpiar">
+            <input type="button" value="Sin acciones">
+        </fieldset>
+    </form>
+    <footer> Terminos y condiciones</footer>
+</body>
+</html>
