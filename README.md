@@ -25,7 +25,7 @@
 * [Notas de la clase]()
 * [Demo practico de la clase]()
 
-## Clase 3
+## Clase 3 : Agregando CSS a nuestro proyecto
 
 * [Notas de la clase]()
 * [Demo practico de la clase]()
