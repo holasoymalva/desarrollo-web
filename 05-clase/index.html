@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox</title>
+    <style>
+        .padre__flex{
+            background-color: tomato;
+            width: 100%;
+            height: 800px;
+            display: flex;
+            /* flex-direction: row; */
+            /* flex-wrap: wrap-reverse; */
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+            align-items: stretch;
+
+            /* justify-content: space-between;
+            justify-content: space-around;
+            justify-content: space-evenly; */
+        }
+        .cubo{
+            background-color: yellow;
+            width: 150px;
+            height: 150px;
+            margin: 20px;
+            border-radius: 12%;
+        }
+        .cubo--blanco{
+            background-color: aliceblue;
+        }
+        .cubo--borde{
+            background-color: beige;
+            border: 3px solid black;
+            order: -1;
+        }
+    </style>
+</head>
+<body>
+    <div class="padre__flex">
+        <div class="cubo cubo--blanco"></div>
+        <div class="cubo"></div>
+        <div class="cubo"></div>
+        <div class="cubo"></div>
+        <div class="cubo cubo--borde"></div>
+    </div>
+</body>
+</html>
