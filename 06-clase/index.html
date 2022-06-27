@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* .grid__template{
+            display: grid;
+            height: 100vh;
+            grid-template-columns: repeat(5, 2fr) ;
+            grid-template-rows: repeat(6, 3fr) ;
+        } */
+        #plantilla {
+            display: grid;
+            height: 100vh;
+            grid-template-areas:
+                " header   header   header"
+                " producto none     publicidad"
+                " servicio servicio publicidad"
+                " footer   footer   footer"
+            ;
+            grid-template-rows: 150px 1fr 3fr 170px;
+            grid-template-columns: repeat(3, 1fr);
+
+            grid-column-gap: 10px;
+            grid-row-gap: 20px;
+        }
+
+        header {
+            grid-area: header;
+            background-color: tomato;
+            display: grid;
+            justify-items: center;
+            /* Horizontal con grid*/
+            align-items: center;
+            /* Vertical con grid*/
+            display: flex;
+            justify-content: center;
+            /* Horizontal con flexbox*/
+            align-items: center;
+            /* Vertical con flexbox*/
+        }
+
+        footer {
+            grid-area: footer;
+            background-color: blueviolet;
+        }
+
+        .producto {
+            grid-area: producto;
+            background-color: blue;
+            background-image: url("photo-1638913970895-d3df59be1466.avif");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .producto img {
+            width: 100%;
+        }
+
+        .servicio {
+            grid-area: servicio;
+            background-color: chartreuse;
+        }
+
+        .publicidad {
+            grid-area: publicidad;
+            background-color: aqua;
+        }
+
+        .verde {
+            background-color: greenyellow;
+        }
+
+        .amarillo {
+            background-color: yellow;
+        }
+
+        .border {
+            border: 3px;
+            border-color: black;
+            border-style: solid;
+        }
+    </style>
+</head>
+
+<body>
+    <section id="plantilla">
+        <header class="border">
+            <h1>Hola Mundo</h1>
+        </header>
+        <div class="producto border"></div>
+        <div class="servicio border"></div>
+        <div class="publicidad border"></div>
+        <footer class="border">Hola soy un footer</footer>
+    </section>
+    <!-- <section class="grid__template">
+        <div class="verde border-test">Item 1</div>
+        <div class="amarillo border-test">Item 2</div>
+        <div class="verde border-test">Item 3</div>
+        <div class="amarillo border-test">Item 4</div>
+        <div class="amarillo border-test">Item 5</div>
+        <div class="amarillo border-test">Item 6</div>
+        <div class="verde border-test">Item 7</div>
+        <div class="amarillo border-test">Item 8</div>
+        <div class="verde border-test">Item 9</div>
+        <div class="amarillo border-test">Item 10</div>
+        <div class="amarillo border-test">Item 11</div>
+        <div class="amarillo border-test">Item 12</div>
+
+        <div class="verde border-test">Item 1</div>
+        <div class="amarillo border-test">Item 2</div>
+        <div class="verde border-test">Item 3</div>
+        <div class="amarillo border-test">Item 4</div>
+        <div class="amarillo border-test">Item 5</div>
+        <div class="amarillo border-test">Item 6</div>
+        <div class="verde border-test">Item 7</div>
+        <div class="amarillo border-test">Item 8</div>
+        <div class="verde border-test">Item 9</div>
+        <div class="amarillo border-test">Item 10</div>
+        <div class="amarillo border-test">Item 11</div>
+        <div class="amarillo border-test">Item 12</div>
+
+    </section> -->
+</body>
+
+</html>
