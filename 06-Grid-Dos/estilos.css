@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+.menu{
+    margin: 0;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu li{
+    display: inline;
+    margin: 10px 10px;
+}
+
+/* Seccion en negro */
+
+#section-negro{
+    background-color: black;
+}
+#section-negro__contenedor{
+    color: white;
+    display: grid;
+    grid-template-areas:
+        "texto1 titulo ."
+        ". titulo ."
+        ". titulo texto2";
+    grid-template-columns: repeat(3, 2fr);
+    grid-template-rows: repeat(3, 1fr);
+    max-width: 700px;
+    margin:auto;
+}
+#section-negro__titulo{
+    font-size: 3rem;
+    font-weight: 900;
+    grid-area: titulo;
+    background-image: url(./img/ugly-12.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#section-negro__texto1{
+    grid-area: texto1;
+}
+#section-negro__texto2{
+    grid-area: texto2;
+}
+
+/* Seccion Blanca */
+
+#section-blanco{
+    margin: auto;
+    max-width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.section-blanco__card{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.section-blanco__card h2{
+    font-size: 2rem;
+}
+.responsive-img{
+    height: auto;
+    width: 100%;
+    max-width: 300px;
+}

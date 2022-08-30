@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta</title>
+    <style>
+        body{
+            background-image: linear-gradient(180deg, rgba(177, 255, 250, 0.74), rgb(92, 230, 255)) ;
+            background-attachment: fixed ;
+        }
+        /* div{
+            width: 100px;
+            height: 100px;
+            background-color: tomato;
+            transition: all 2s;
+        }
+        div:hover{
+            width: 200px;
+            height: 300px;
+            transform: scale(20,20) rotate(180deg) skew(20deg); 
+        } 
+        input {
+            color:red;
+        }
+        input:focus{
+            color: white;
+            background: red;
+        } 
+        */
+        .card{
+            width: 0;
+            height: 0;
+            border-top: 100px solid #eee;
+            border-right:  170px solid #ddd;
+            border-bottom: 100px solid #ccc;
+            border-left: 170px solid #ddd;
+            margin: auto;
+            margin-top: 10%;
+        }
+        .corazon{
+            width: 32px;
+            height: 32px;
+            background-color: tomato;
+            transform: translate(-50%,-50%) rotate(45deg);
+            animation: latido 4s linear infinite;
+        }
+        .corazon:before{
+            content: "";
+            position: absolute;
+            top:0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: tomato ;
+            transform: translateY(-50%);
+            border-radius: 50%;
+        }
+        .corazon:after{
+            content: "";
+            position: absolute;
+            top:0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: tomato ;
+            transform: translateX(-50%);
+            border-radius: 50%;
+        }
+        @keyframes latido {
+            0% { transform: translate(-50%,-50%) rotate(45deg) scale(1);}
+            25% { transform: translate(-50%,-50%) rotate(45deg) scale(1);}
+            30% { transform: translate(-50%,-50%) rotate(45deg) scale(1.4);}
+            50% { transform: translate(-50%,-50%) rotate(45deg) scale(1.2);}
+            70% { transform: translate(-50%,-50%) rotate(45deg) scale(1.4);}
+            100% { transform: translate(-50%,-50%) rotate(45deg) scale(1);}
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <a href="https://codepen.io/manz/pen/KKvYdaZ" target="_blank">
+            <div class="corazon">
+            </div>
+        </a>
+    </div>
+</body>
+</html>
