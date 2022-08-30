@@ -10,47 +10,7 @@
 * **Clase 2** : Primeros pasos con HTML.
 * **Clase 3** : Incluyendo CSS.
 
-
-## Clase 0 : Introduccion al Desarrollo Web.
-
-* [Notas de la clase](./00-clase)
-
-## Clase 1 : Introduccion al Diseño Web
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-## Clase 2 : Primeros pasos con HTML
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-## Clase 3 : Agregando CSS a nuestro proyecto
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-## Clase 4 : 
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-## Clase 5 : 
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-## Clase 6 : 
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-## Clase 7 : 
-
-* [Notas de la clase]()
-* [Demo practico de la clase]()
-
-### Recursos complementarios.
+## Contenidos Complementarios.
 
 * [Como eliminar Node_Modules]()
 * [Tutorial Practico de Boostrap]()
@@ -59,6 +19,19 @@
 * [Curso basico de terminal/consola en Windows]()
 * [Curso basico de terminal/consola en Mac]()
 * [Curso basico de terminal/consola en Linux]()
+* Dominando Visual Studio Code.
+* Como hacer usar Linkedin Jr Developer.
+* Temas que todo desarrollador JS debe conocer.
+* Como encontrar nuestro primer empleo en TI.
+
+## Referencias
+
+* [React Agency](http://preview.themeforest.net/item/trydo-creative-agency-react-template/full_screen_preview/25457315?_ga=2.214693783.1639775254.1650238623-1258484987.1650238623)
+* [bitr-banking-payment](https://preview.themeforest.net/item/bitr-banking-payment-processing-html-template/full_screen_preview/36366594?_ga=2.214693783.1639775254.1650238623-1258484987.1650238623)
+* [senbecoin-cryptocurrency-fintech](https://preview.themeforest.net/item/senbecoin-cryptocurrency-fintech-elementor-template-kit/full_screen_preview/34884414?_ga=2.55308331.1639775254.1650238623-1258484987.1650238623)
+* [Monteno – NFT Portfolio](https://preview.themeforest.net/item/monteno-nft-portfolio-html-template/full_screen_preview/36363710?_ga=2.209317906.1639775254.1650238623-1258484987.1650238623)
+* [Kittypix - NFT Portfolio](https://preview.themeforest.net/item/kittypix-nft-portfolio-elementor-template-kit/full_screen_preview/36272093?_ga=2.42178469.1639775254.1650238623-1258484987.1650238623)
+
 
 
 >  Made with 💖 and 🌮🌮🌮 by [malvabombom](https://github.com/malvabombom) 🤙
