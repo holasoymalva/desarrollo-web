@@ -2,7 +2,17 @@
 
 # Desarrollo Web 33085
 
+## Tecnologias del curso: 
 
+- ![html5]
+- ![css3]
+- [SASS][sass]
+- [Bootstrap 5.2][btsp]
+- ![js]
+
+### Herramientas utilizadas:
+
+![vsc] ![git] ![ps] ![ai] ![fg]
 
 ### Indice
 * **Clase 0** : Internet, navegadores, buscadores, instalaciones necesarias.
