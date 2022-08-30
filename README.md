@@ -1,6 +1,6 @@
 ![alt text](https://github.com/malvabombom/desarrollo-web-37690/blob/main/source/wd3769.png)
 
-# Desarrollo Web 37690
+# Desarrollo Web 33085
 
 
 
@@ -31,6 +31,14 @@
 * [Demo practico de la clase]()
 
 ### Recursos complementarios.
+
+* [Como eliminar Node_Modules]()
+* [Tutorial Practico de Boostrap]()
+* [Introduccion a Javascript]()
+* [Fundamentos Basicos de Node.js]()
+* [Curso basico de terminal/consola en Windows]()
+* [Curso basico de terminal/consola en Mac]()
+* [Curso basico de terminal/consola en Linux]()
 
 
 >  Made with 💖 and 🌮🌮🌮 by [malvabombom](https://github.com/malvabombom) 🤙
