@@ -49,7 +49,7 @@
 
 Created by Leon Martin( [malvabombom](https://github.com/malvabombom) ).
 
-[![in]][in-link] [![ig]][ig-link] [![fb]][fb-link]
+[![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
 
 Thank you for reading. <3
 
