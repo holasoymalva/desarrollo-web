@@ -45,6 +45,10 @@
 * [Monteno – NFT Portfolio](https://preview.themeforest.net/item/monteno-nft-portfolio-html-template/full_screen_preview/36363710?_ga=2.209317906.1639775254.1650238623-1258484987.1650238623)
 * [Kittypix - NFT Portfolio](https://preview.themeforest.net/item/kittypix-nft-portfolio-elementor-template-kit/full_screen_preview/36272093?_ga=2.42178469.1639775254.1650238623-1258484987.1650238623)
 
+## Author
 
+Created by Leon Martin( [malvabombom](https://github.com/malvabombom) ).
 
->  Made with 💖 and 🌮🌮🌮 by [malvabombom](https://github.com/malvabombom) 🤙
+[![in]][in-link] [![ig]][ig-link] [![fb]][fb-link]
+
+Thank you for reading. <3
