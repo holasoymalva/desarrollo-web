@@ -9,6 +9,19 @@
 * **Clase 1** : Introduccion al diseño web.
 * **Clase 2** : Primeros pasos con HTML.
 * **Clase 3** : Incluyendo CSS.
+* **Clase 4** : BoxModel.
+* **Clase 5** : FlexBox.
+* **Clase 6** : CSS Grid I.
+* **Clase 7** : CSS Grid II.
+* **Clase 8** : Animaciones.
+* **Clase 9** : Git.
+* **Clase 10** : Github.
+* **Clase 11** : Frameworks.
+* **Clase 12** : Media Queries.
+* **Clase 13** : Sass I.
+* **Clase 14** : Sass II.
+* **Clase 15** : SEO.
+* **Clase 16** : Nuestro Cliente.
 
 ## Contenidos Complementarios.
 
