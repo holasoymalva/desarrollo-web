@@ -1,6 +1,5 @@
-![alt text](https://github.com/malvabombom/desarrollo-web-37690/blob/main/source/wd3769.png)
 
-# Desarrollo Web 33085
+# Desarrollo Web
 
 ## Tecnologias del curso: 
 
